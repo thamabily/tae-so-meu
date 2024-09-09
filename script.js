@@ -2,7 +2,7 @@ const simButton = document.querySelector('.sim');
 const naoButton = document.querySelector('.nao');
 const messageDiv = document.getElementById('resposta');
 
-const buttonWidth = 120; // Removido o 's' extra
+const buttonWidth = 120;
 const buttonHeight = 50;
 
 const screenWidth = 1368;
