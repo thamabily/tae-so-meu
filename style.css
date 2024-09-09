@@ -15,7 +15,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('image.jpg'); /* Ajuste o caminho da imagem conforme necessário */
+    background-image: url('image.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,7 +58,7 @@ h1 {
 }
 
 .nao {
-    position: absolute; /* Corrigido para que o botão "não" possa ser posicionado corretamente */
+    position: absolute;
     animation: move 4s infinite ease-in-out;
 }
 
